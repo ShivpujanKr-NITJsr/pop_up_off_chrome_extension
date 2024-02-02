@@ -27,11 +27,11 @@ for better understanding ,see image
 image for inspection 1.
 <a href="./inspect_pic_1.png" target="blank"><img align="center" src="./inspect_pic_1.png" height="100" /></a>
 2.
-<a href="./inspect_pic_2.png" target="blank"><img align="center" src="./inspect_pic_2.png" height="100" /></a>
+<a href="./inspect_pic_2.png" target="blank"><img align="center" src="./inspect_pic_2.jpg" height="100" /></a>
 3.
-<a href="./inspect_pic_3.png" target="blank"><img align="center" src="./inspect_pic_3.png" height="100" /></a>
+<a href="./inspect_pic_3.png" target="blank"><img align="center" src="./inspect_pic_3.jpg" height="100" /></a>
 4.
-<a href="./inspect_pic_4.png" target="blank"><img align="center" src="./inspect_pic_4.png" height="100" /></a>
+<a href="./inspect_pic_4.png" target="blank"><img align="center" src="./inspect_pic_4.jpg" height="100" /></a>
 
 ## dispaly: none 
 
