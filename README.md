@@ -24,9 +24,13 @@ for better understanding ,see image
 ,right click on the screen you will get inspect options do that and then follow as in screen and as written in readme.md
 
 <a href="./inspect_pic.png" target="blank"><img align="center" src="./inspect_pic.png" height="100" /></a>
+image for inspection 1.
 <a href="./inspect_pic_1.png" target="blank"><img align="center" src="./inspect_pic_1.png" height="100" /></a>
+2.
 <a href="./inspect_pic_2.png" target="blank"><img align="center" src="./inspect_pic_2.png" height="100" /></a>
+3.
 <a href="./inspect_pic_3.png" target="blank"><img align="center" src="./inspect_pic_3.png" height="100" /></a>
+4.
 <a href="./inspect_pic_4.png" target="blank"><img align="center" src="./inspect_pic_4.png" height="100" /></a>
 
 ## dispaly: none 
