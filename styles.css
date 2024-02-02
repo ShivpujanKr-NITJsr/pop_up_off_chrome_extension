@@ -1,0 +1,9 @@
+* {
+    /* overflow-y: scroll !important; */
+    backdrop-filter: brightness(1) !important;
+  }
+
+  body {
+     overflow-y: scroll !important;
+  }
+  

@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "popup off extension for fun",
+    "version": "1.0",
+    "description": "only for educational and knowledge purpose",
+    "permissions": ["scripting", "activeTab"],
+    "background": {
+        "service_worker": "background.js"
+      },
+      "action": {
+        
+      },
+    
+    "web_accessible_resources": [
+      {
+        "resources": ["styles.css"],
+        "matches": ["<all_urls>"]
+      }
+    ]
+  }
+  
